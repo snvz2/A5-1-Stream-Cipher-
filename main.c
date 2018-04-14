@@ -2,6 +2,8 @@
 /*
 
    A5/1 Stream-Cipher
+   
+   Date: April 14, 2018
 
    Test with GDB online compiler tool for C: https://www.onlinegdb.com
 
